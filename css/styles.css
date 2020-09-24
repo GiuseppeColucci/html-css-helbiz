@@ -1,3 +1,25 @@
-h1{
-  color: red;
+.container{
+  width: 1390px;
+}
+.clear{
+  content: '';
+  display: table;
+  clear: both;
+}
+.f-left{
+  float: left;
+}
+.f-right{
+  float: right;
+}
+img{
+  background: red;
+}
+
+.col-right ul li {
+  display: inline-block;
+}
+ul li a{
+  text-decoration: none;
+
 }
