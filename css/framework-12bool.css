@@ -67,6 +67,9 @@ clear: both;
   width: calc(100% / 12);
 }
 /* OFFSET!! */
+.offset-xs-0{
+  margin-left: 0;
+}
 .offset-xs-1{
   margin-left: calc(100% / 12);
 }
@@ -144,6 +147,9 @@ clear: both;
     width: calc(100% / 12);
   }
   /* OFFSET!! */
+  .offset-md-0{
+    margin-left: 0;
+  }
   .offset-md-1{
     margin-left: calc(100% / 12);
   }
@@ -222,6 +228,9 @@ clear: both;
     width: calc(100% / 12);
   }
   /* OFFSET!! */
+  .offset-lg-0{
+    margin-left: 0;
+  }
   .offset-lg-1{
     margin-left: calc(100% / 12);
   }
