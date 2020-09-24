@@ -1,6 +1,7 @@
 .container{
   width: 1390px;
   background: #cecece;
+
 }
 .clear{
   content: '';
@@ -20,9 +21,14 @@ ul li a{
   text-decoration: none;
   font-size: 15px;
   padding-right: 5px;
-  color: #fff;
+  color:grey;
 }
-  .container .jumbotron{
+
+@media screen and (max-width:767px){
+  .col-right{
+    display: none;
+  }
+}
+.jumbotron{
   background-image: url(../img/hero-bg.jpg);
-  text-align: center;
 }
