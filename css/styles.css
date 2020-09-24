@@ -22,7 +22,7 @@ ul li a{
   padding-right: 5px;
   color: #fff;
 }
-.jumbotron{
+  .container .jumbotron{
   background-image: url(../img/hero-bg.jpg);
   text-align: center;
 }
