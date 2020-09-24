@@ -1,25 +1,26 @@
 .container{
   width: 1390px;
+  background: #cecece;
 }
 .clear{
   content: '';
   display: table;
   clear: both;
 }
-.f-left{
-  float: left;
+.col-right .col-xs-12{
+  display: none;
 }
-.f-right{
-  float: right;
+.col-left img{
+  padding-left: 10px;
 }
-img{
-  background: red;
-}
+
 
 .col-right ul li {
   display: inline-block;
 }
 ul li a{
   text-decoration: none;
+  font-size: 10px;
+  padding-right: 5px;
 
 }
