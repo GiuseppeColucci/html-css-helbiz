@@ -42,13 +42,17 @@ p{
   padding: 5px;
 }
 
-.box-left img{
-  width: 100%;
-  height: 500px;
-  max-width: 100%;
+.box-left{
+  background-image:url(../img/go-segway.jpg);
+  
+  text-align: center;
+
+
 }
-.box-right img{
-  width: 100%;
-  height: 500px;
-  max-width: 100%;
+.box-right{
+  background-image: url(../img/bike.jpg);
+
+  text-align: center;
+
+
 }
