@@ -13,14 +13,16 @@
 .col-left img{
   padding-left: 10px;
 }
-
-
 .col-right ul li {
   display: inline-block;
 }
 ul li a{
   text-decoration: none;
-  font-size: 10px;
+  font-size: 15px;
   padding-right: 5px;
-
+  color: #fff;
+}
+.jumbotron{
+  background-image: url(../img/hero-bg.jpg);
+  text-align: center;
 }
